@@ -1,0 +1,32 @@
+{
+  "name": "@almadar/lolo-sl",
+  "version": "1.0.0",
+  "description": "Slovenian (Slovenščina) language pack for the Almadar .lolo/.orb language — write and read programs in Slovenian.",
+  "license": "BSL-1.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almadar-io/lolo-sl.git"
+  },
+  "homepage": "https://orb.almadar.io",
+  "keywords": [
+    "almadar",
+    "orb",
+    "lolo",
+    "language-pack",
+    "sl"
+  ],
+  "files": [
+    "vocabulary.json"
+  ],
+  "orbVocabulary": {
+    "compiler": ">=17.11.2",
+    "vocabulary": "vocabulary.json"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node scripts/check.mjs"
+  }
+}
