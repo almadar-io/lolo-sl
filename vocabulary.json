@@ -573,6 +573,7 @@
     "atomic": "atomsko",
     "behavior/apply": "vedenje/uporabi",
     "behavior/ref": "vedenje/sklic",
+    "behavior/resolve": "vedenje/razresen",
     "behavior/catalog": "vedenje/katalog",
     "behavior/compose": "vedenje/sestavi",
     "behavior/describe": "vedenje/opisi",
