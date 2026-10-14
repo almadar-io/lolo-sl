@@ -83,6 +83,7 @@
     "instance": "primerek",
     "collection": "zbirka",
     "background": "ozadno",
+    "visible": "vidno",
     "mock": "lazno"
   },
   "categories": {
@@ -173,7 +174,6 @@
     "datetime": "datumCas",
     "duration": "trajanje",
     "money": "denar",
-    "scalar": "skalar",
     "file": "datoteka",
     "email": "eposta",
     "url": "url",
@@ -491,6 +491,7 @@
     "viewType": "tipPogleda",
     "visual_prompt": "vizualno_poziv",
     "vocabulary": "besednjak",
+    "whileVisible": "medVidnostjo",
     "seedMock": "lazniZacetek",
     "localeInstances": "jezikovniPrimerki",
     "diagram": "diagram",
@@ -597,6 +598,7 @@
     "contract/validate-input": "pogodba/validiraj-vnos",
     "contract/validate-output": "pogodba/validiraj-rezultat",
     "contract/violations": "pogodba/krsitve",
+    "csv/parse": "csv/razcleni",
     "data/augment": "podatki/obogati",
     "data/dataloader": "podatki/nalagalnikPodatkov",
     "data/dataset": "podatki/podatkovnaMnozica",
