@@ -134,7 +134,9 @@
     "update": "posodobi",
     "delete": "izbrisi",
     "icon": "ikona",
-    "roles": "vloge"
+    "roles": "vloge",
+    "invariant": "invarianta",
+    "holds": "velja"
   },
   "sigils": {
     "entity": "entiteta",
