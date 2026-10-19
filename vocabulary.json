@@ -637,6 +637,7 @@
     "browser/tab-act": "brskalnik/zavihek-deluj",
     "browser/tab-apply": "brskalnik/zavihek-uporabi",
     "browser/tab-apply-many": "brskalnik/zavihek-uporabi-vec",
+    "browser/tab-capture": "brskalnik/zavihek-zajemi",
     "browser/tab-close": "brskalnik/zavihek-zapri",
     "browser/tab-list": "brskalnik/zavihki-seznam",
     "browser/tab-navigate": "brskalnik/zavihek-navigiraj",
