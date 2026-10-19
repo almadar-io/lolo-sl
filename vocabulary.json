@@ -734,6 +734,8 @@
     "http": "http-zahteva",
     "i18n/t": "prevod/besedilo",
     "if": "ce",
+    "json/nodes": "json/vozlisca",
+    "typed": "tipiziran",
     "json/parse": "json/razcleni",
     "json/stringify": "json/v_niz",
     "json/valid": "json/veljaven",
