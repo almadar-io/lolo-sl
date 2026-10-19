@@ -51,6 +51,7 @@
     "lazy": "odlozeno",
     "locales": "jeziki",
     "egress": "izhod",
+    "themes": "teme",
     "inbound": "dohodno",
     "answers": "odgovarja",
     "verifies": "preverja",
@@ -136,7 +137,8 @@
     "icon": "ikona",
     "roles": "vloge",
     "invariant": "invarianta",
-    "holds": "velja"
+    "holds": "velja",
+    "ensures": "jamci"
   },
   "sigils": {
     "entity": "entiteta",
@@ -151,6 +153,7 @@
     "prevStates": "prejsnjaStanja",
     "fromState": "izStanja",
     "toState": "vStanje",
+    "fromEntity": "izEntitete",
     "locale": "jezik"
   },
   "effects": {
@@ -256,6 +259,9 @@
     "_metadata": "_metapodatki",
     "_resolved": "_razresen",
     "access_waivers": "dostop_izjeme",
+    "ensures": "jamci",
+    "holds": "velja",
+    "invariants": "invariante",
     "alias": "vzdevek",
     "animations": "animacije",
     "appliesTo": "veljaZa",
@@ -356,6 +362,7 @@
     "header": "glava",
     "credential": "poverilnica",
     "egress": "izhod",
+    "themes": "teme",
     "osGrants": "sistemskaDovoljenja",
     "deployment": "namestitev",
     "initialEffects": "zacetnoUcinki",
