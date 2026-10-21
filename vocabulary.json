@@ -51,6 +51,7 @@
     "lazy": "odlozeno",
     "locales": "jeziki",
     "egress": "izhod",
+    "store": "shramba",
     "themes": "teme",
     "inbound": "dohodno",
     "answers": "odgovarja",
@@ -97,7 +98,8 @@
     "collection": "zbirka",
     "background": "ozadno",
     "visible": "vidno",
-    "mock": "lazno"
+    "mock": "lazno",
+    "store": "shramba"
   },
   "categories": {
     "interaction": "interakcija",
@@ -362,6 +364,7 @@
     "header": "glava",
     "credential": "poverilnica",
     "egress": "izhod",
+    "store": "shramba",
     "themes": "teme",
     "osGrants": "sistemskaDovoljenja",
     "deployment": "namestitev",
@@ -960,7 +963,6 @@
     "program/dispatch": "program/odposlji",
     "program/eval": "program/ovrednoti",
     "program/inputs": "program/vhodi",
-    "program/machine": "program/stroj",
     "program/print": "program/izpisi",
     "program/read": "program/preberi",
     "program/step": "program/korak",
