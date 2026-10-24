@@ -233,6 +233,7 @@
     "event": "dogodek",
     "EventAddress": "NaslovDogodka",
     "CallKey": "KljucKlica",
+    "field": "polje",
     "slot": "reza",
     "pattern": "vzorec",
     "Map": "Mapa",
