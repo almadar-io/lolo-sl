@@ -80,7 +80,10 @@
     "noindex": "brezIndeksa",
     "version": "razlicica",
     "translationOf": "prevodOd",
-    "label": "oznaka"
+    "label": "oznaka",
+    "input": "vhod",
+    "http": "splet",
+    "boot": "zagon"
   },
   "shapes": {
     "Entity": "Entiteta",
@@ -93,23 +96,16 @@
     "persistent": "trajno",
     "runtime": "izvajanje",
     "shared": "skupno",
-    "local": "lokalno",
+    "client": "odjemalec",
+    "optimistic": "optimisticno",
+    "server": "streznik",
+    "browser": "brskalnik",
     "identity": "identiteta",
-    "instance": "primerek",
-    "collection": "zbirka",
     "background": "ozadno",
     "visible": "vidno",
-    "mock": "lazno",
     "store": "shramba"
   },
-  "categories": {
-    "interaction": "interakcija",
-    "integration": "integracija",
-    "lifecycle": "zivljenjskiCikel",
-    "game-core": "igra-jedro",
-    "game-entity": "igra-entiteta",
-    "game-ui": "igra-vmesnik"
-  },
+  "categories": {},
   "capabilities": {
     "read": "beri",
     "write": "pisi",
@@ -566,7 +562,12 @@
     "signIn": "prijava",
     "sourcePage": "izvornaStran",
     "translationOf": "prevodOd",
-    "pageModifiers": "modifikatorjiStrani"
+    "pageModifiers": "modifikatorjiStrani",
+    "dispatch": "razposiljanje",
+    "protocol": "protokol",
+    "address": "naslov",
+    "browser": "brskalnik",
+    "input": "vhod"
   },
   "operators": {
     "as": "kot",
