@@ -83,7 +83,7 @@
     "translationOf": "prevodOd",
     "label": "oznaka",
     "input": "vhod",
-    "http": "splet",
+    "http": "http-zahteva",
     "boot": "zagon"
   },
   "shapes": {
