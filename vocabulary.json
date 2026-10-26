@@ -138,7 +138,8 @@
     "roles": "vloge",
     "invariant": "invarianta",
     "holds": "velja",
-    "ensures": "jamci"
+    "ensures": "jamci",
+    "index": "indeksiraj"
   },
   "sigils": {
     "entity": "entiteta",
@@ -264,6 +265,8 @@
     "ensures": "jamci",
     "holds": "velja",
     "invariants": "invariante",
+    "indexes": "indeksi",
+    "orderBy": "razvrstiPo",
     "alias": "vzdevek",
     "animations": "animacije",
     "appliesTo": "veljaZa",
