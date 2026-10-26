@@ -11,7 +11,6 @@
     "expects": "pricakuje",
     "entity": "entiteta",
     "type": "tip",
-    "derived": "izpeljano",
     "trait": "znacilnost",
     "initial": "zacetno",
     "state": "stanje",
@@ -139,7 +138,8 @@
     "invariant": "invarianta",
     "holds": "velja",
     "ensures": "jamci",
-    "index": "indeksiraj"
+    "index": "indeksiraj",
+    "derived": "izpeljano"
   },
   "sigils": {
     "entity": "entiteta",
@@ -266,6 +266,7 @@
     "holds": "velja",
     "invariants": "invariante",
     "indexes": "indeksi",
+    "derived": "izpeljano",
     "orderBy": "razvrstiPo",
     "alias": "vzdevek",
     "animations": "animacije",
