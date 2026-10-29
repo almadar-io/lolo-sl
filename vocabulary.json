@@ -101,6 +101,7 @@
     "server": "streznik",
     "browser": "brskalnik",
     "identity": "identiteta",
+    "self": "sam",
     "background": "ozadno",
     "visible": "vidno",
     "store": "shramba"
