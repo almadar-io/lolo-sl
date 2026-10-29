@@ -1038,7 +1038,6 @@
     "time/weekday": "cas/danVTednu",
     "time/year": "cas/leto",
     "trace/emit": "sled/oddaj",
-    "trace/log": "sled/beleji",
     "tree/fold": "drevo/zlozi",
     "unquote": "odcitat",
     "validate/array": "validacija/polje",
