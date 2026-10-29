@@ -80,6 +80,7 @@
     "noindex": "brezIndeksa",
     "version": "razlicica",
     "translationOf": "prevodOd",
+    "notFound": "nenajdeno",
     "label": "oznaka",
     "input": "vhod",
     "http": "http-zahteva",
@@ -140,7 +141,8 @@
     "holds": "velja",
     "ensures": "jamci",
     "index": "indeksiraj",
-    "derived": "izpeljano"
+    "derived": "izpeljano",
+    "display": "prikaz"
   },
   "sigils": {
     "entity": "entiteta",
@@ -385,6 +387,7 @@
     "intrinsic": "lastno",
     "isFinal": "jeKoncno",
     "isInitial": "jeZacetno",
+    "isNotFound": "jeNenajdeno",
     "isTerminal": "jeTerminalno",
     "item": "element",
     "items": "elementi",
@@ -563,6 +566,7 @@
     "localeInstances": "jezikovniPrimerki",
     "diagram": "diagram",
     "scene": "prizor",
+    "display": "prikaz",
     "access": "dostop",
     "indexing": "indeksiranje",
     "origin": "poreklo",
