@@ -1101,6 +1101,7 @@
     "audio/play-sound": "zvok/predvajaj-zvok",
     "audio/stop-music": "zvok/ustavi-glasbo",
     "audio/stop-sound": "zvok/ustavi-zvok",
+    "auth/consent": "overjanje/privolitev",
     "auth/sign-in": "overjanje/prijava",
     "auth/sign-out": "overjanje/odjava",
     "behavior/packages": "vedenje/paketi",
