@@ -1029,6 +1029,8 @@
     "str/truncate": "niz/skrajsaj",
     "str/upper": "niz/velikeCrke",
     "str/uri-component-valid": "niz/jeVeljavenKomponentaNaslova",
+    "theme/clear": "tema/pocisti",
+    "theme/set": "tema/nastavi",
     "time/add": "cas/dodaj",
     "time/day": "cas/dan",
     "time/diff": "cas/razlika",
