@@ -8,8 +8,8 @@ const SECTIONS = ['keywords', 'shapes', 'tags', 'categories', 'capabilities', 'a
 const manifest = JSON.parse(readFileSync(new URL('../package.json', import.meta.url), 'utf8'));
 const block = manifest.orbVocabulary;
 const problems = [];
-if (!block || typeof block.compiler !== 'string' || typeof block.vocabulary !== 'string') {
-  problems.push('package.json: `orbVocabulary` needs `compiler` and `vocabulary`');
+if (!block || typeof block.language !== 'string' || typeof block.vocabulary !== 'string') {
+  problems.push('package.json: `orbVocabulary` needs `language` and `vocabulary`');
 } else {
   const vocabulary = JSON.parse(readFileSync(new URL(`../${block.vocabulary}`, import.meta.url), 'utf8'));
   const meta = vocabulary.meta ?? {};
