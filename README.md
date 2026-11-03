@@ -11,7 +11,7 @@
 
 </div>
 
-<p align="center"><sub>Part of <a href="https://github.com/almadar-io/orb"><b>Orb</b></a>: the language where the rule is the program. <a href="https://orb.almadar.io">orb.almadar.io</a></sub></p>
+<p align="center"><sub>Part of <a href="https://github.com/almadar-io/orb"><b>Orb</b></a>: a programming language of composable state machines. <a href="https://orb.almadar.io">orb.almadar.io</a></sub></p>
 
 With this pack installed, `orb` reads and writes programs whose keywords, effects, operators and `.orb` keys are spelled in Slovenian. English is built into `orb`; every other language is a pack like this one. The package is one file, `vocabulary.json`.
 
