@@ -131,7 +131,7 @@ Coverage against English (missing words, collisions, operator parity) is checked
 
 ## Docs
 
-Monorepo docs at [itechdom/kflow.ai](https://github.com/itechdom/kflow.ai): `docs/Almadar_Summary.md`, `docs/Almadar_Orbital_Lolo.md`. Site: [orb.almadar.io](https://orb.almadar.io).
+[Orb documentation](https://orb.almadar.io/docs): the language, the `orb` CLI and how the pieces fit
 
 ## License
 
