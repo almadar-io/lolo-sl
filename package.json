@@ -19,7 +19,7 @@
     "vocabulary.json"
   ],
   "orbVocabulary": {
-    "compiler": ">=17.11.2",
+    "language": "^1",
     "vocabulary": "vocabulary.json"
   },
   "publishConfig": {
