@@ -1154,6 +1154,8 @@
     "gzip/decompress": "gzip/razsiri",
     "tar/entries": "tar/vnosi",
     "program/live": "program/zivo",
+    "program/open": "program/odpri",
+    "program/close": "program/zapri",
     "session/append-history": "seja/dodaj-zgodovina",
     "session/read-analysis": "seja/beri-analiza",
     "session/read-errors": "seja/beri-napake",
