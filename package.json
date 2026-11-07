@@ -1,6 +1,6 @@
 {
   "name": "@almadar/lolo-sl",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "orbRelease": { "severity": "normal" },
   "description": "Slovenian (Slovenščina) language pack for the Almadar .lolo/.orb language — write and read programs in Slovenian.",
   "license": "BSL-1.1",
