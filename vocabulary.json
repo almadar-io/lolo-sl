@@ -1179,7 +1179,6 @@
     "session/write-errors": "seja/pisi-napake",
     "session/write-memory": "seja/pisi-spomin",
     "session/write-spec": "seja/pisi-specifikacija",
-    "trace/emit": "sled/oddaj",
     "tree/index": "drevo/kazalo",
     "value/depth": "vrednost/globina",
     "value/key": "vrednost/kljuc",
