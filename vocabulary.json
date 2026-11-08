@@ -1103,6 +1103,7 @@
     "str/repeat": "niz/ponovi",
     "str/replace": "niz/zamenjaj",
     "str/replace-pattern": "niz/zamenjajVzorec",
+    "str/find-pattern": "niz/najdiVzorec",
     "str/replaceAll": "niz/zamenjajVsi",
     "str/reverse": "niz/obrni",
     "str/slice": "niz/rezina",
