@@ -607,6 +607,8 @@
     "orb": "orbitalniZapis",
     "places": "mesta",
     "protocols": "protokoli",
+    "serverListens": "poslusanjaStreznika",
+    "listen": "poslusanje",
     "record": "zapis",
     "typeContractVersion": "razlicicaPogodbeTipov",
     "wired": "povezano"
