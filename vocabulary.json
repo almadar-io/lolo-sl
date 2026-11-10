@@ -476,6 +476,7 @@
     "radii": "polmeri",
     "read": "beri",
     "read_policy": "beri_politika",
+    "read_server": "beri_strežnik",
     "reconnect": "ponovnaPovezava",
     "ref": "sklic",
     "refId": "sklicId",
