@@ -743,6 +743,7 @@
     "bytes/to-string": "bajti/v-niz",
     "bytes/valid-utf8": "bajti/veljaven-utf8",
     "bytes/write-uint": "bajti/pisi-nepredznaceno",
+    "bytes/xor": "bajti/izkljucni-ali",
     "call-service": "poklici-storitev",
     "cancel-call": "preklici-klic",
     "credential-connect": "poveži-poverilnico",
