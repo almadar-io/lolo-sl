@@ -979,6 +979,7 @@
     "os/path-relative": "os/relativna-pot",
     "os/pid": "os/id-procesa",
     "os/ppid": "os/id-starsa",
+    "os/process-list": "os/seznam-procesov",
     "os/read": "os/beri",
     "os/read-file": "os/beri-datoteko",
     "os/readlink": "os/beri-povezavo",
