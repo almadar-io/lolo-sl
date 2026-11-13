@@ -315,6 +315,7 @@
     "content": "vsebina",
     "create": "ustvari",
     "create_policy": "ustvari_politika",
+    "create_server": "ustvari_strežnik",
     "createdAt": "ustvarjenoPri",
     "curName": "trenutnoIme",
     "customPatterns": "lastniVzorci",
