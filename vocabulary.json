@@ -253,6 +253,7 @@
     "event": "dogodek",
     "EventAddress": "NaslovDogodka",
     "CallKey": "KljucKlica",
+    "MessageKey": "KljucSporocila",
     "field": "polje",
     "slot": "reza",
     "pattern": "vzorec",
