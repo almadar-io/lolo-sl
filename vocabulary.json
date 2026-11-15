@@ -1064,6 +1064,7 @@
     "program/eval": "program/ovrednoti",
     "program/host-ask": "program/vprasaj-gostitelja",
     "program/inputs": "program/vhodi",
+    "program/lazy": "program/odlozeno",
     "program/live": "program/zivo",
     "program/navigate": "program/pojdi",
     "program/open": "program/odpri",
