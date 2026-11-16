@@ -466,6 +466,7 @@
     "payloadFor": "podatkiZa",
     "payloadMapping": "podatkiPreslikava",
     "payloadSchema": "podatkiShema",
+    "payloadSpread": "podatkiRazgrnitev",
     "persistence": "trajnost",
     "personas": "osebe",
     "presentation": "predstavitev",
