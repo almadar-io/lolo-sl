@@ -851,6 +851,7 @@
     "kernel/queue-back": "jedro/vrsta-zadaj",
     "kernel/queue-front": "jedro/vrsta-spredaj",
     "kernel/stamp": "jedro/zig",
+    "kernel/step": "jedro/korak",
     "kernel/worklist": "jedro/delovni-seznam",
     "kv/batch": "kljuci/paket",
     "kv/delete": "kljuci/odstrani",
